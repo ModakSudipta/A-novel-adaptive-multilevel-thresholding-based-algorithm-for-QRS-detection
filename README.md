@@ -7,5 +7,5 @@ The heart is the single most important organ of the human body. By studying the 
 # The codes can be used for research and development purposes
 
 Please cite:
-Modak, S., Taha, L. Y., & Abdel-Raheem, E. (2021). A novel method of QRS detection using time and amplitude thresholds with statistical false peak elimination. IEEE Access, 9, 46079-46092.
-Modak, S., Taha, L. Y., & Abdel-Raheem, E. (2021). A novel method of QRS detection using time and amplitude thresholds with statistical false peak elimination. IEEE Access, 9, 46079-46092
+<br />Modak, S., Taha, L. Y., & Abdel-Raheem, E. (2021). A novel method of QRS detection using time and amplitude thresholds with statistical false peak elimination. IEEE Access, 9, 46079-46092.
+<br />Modak, S., Taha, L. Y., & Abdel-Raheem, E. (2021). A novel method of QRS detection using time and amplitude thresholds with statistical false peak elimination. IEEE Access, 9, 46079-46092
