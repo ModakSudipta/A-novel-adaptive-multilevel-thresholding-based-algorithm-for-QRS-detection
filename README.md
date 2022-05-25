@@ -9,3 +9,6 @@ The heart is the single most important organ of the human body. By studying the 
 Please cite:
 <br />Modak, S., Taha, L. Y., & Abdel-Raheem, E. (2021). A novel method of QRS detection using time and amplitude thresholds with statistical false peak elimination. IEEE Access, 9, 46079-46092.
 <br />Modak, S., Abdel-Raheem, E., & Taha, L. Y. (2021). A novel adaptive multilevel thresholding based algorithm for QRS detection. Biomedical Engineering Advances, 2, 100016.
+
+# ResearchGate Link
+<a href="https://www.researchgate.net/profile/Sudipta-Modak-4">Sudipta Modak on ResearchGate</a>
